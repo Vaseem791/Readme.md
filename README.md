@@ -1,5 +1,5 @@
 
-<a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank">Visit W3Schools!</a>
+<a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"></a>
 
 
 <h1 align="center">Hi 👋, I'm Vaseem Ali</h1>
