@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **alivaseem288@gmail.com**
 
-
 ## Connect with me
 <hr>
 <p align="left">
