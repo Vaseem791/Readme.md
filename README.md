@@ -1,5 +1,6 @@
 
-<a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"></a>
+<a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif alt="Vaseem791" height="30" width="40">
+</a>
 
 
 <h1 align="center">Hi 👋, I'm Vaseem Ali</h1>
