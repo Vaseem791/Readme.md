@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaseem Ali</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Enthusiast;.NET+Developer;%20%|%20Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Enthusiast;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi260&label=Profile%20views&color=0e75b6&style=flat" alt="Vaseem791" /> </p>
 
 - 🔭 I’m currently learning **Android Development**
