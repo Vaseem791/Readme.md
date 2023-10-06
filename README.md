@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaseem Ali</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Enthusiast;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Enthusiast;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi260&label=Profile%20views&color=0e75b6&style=flat" alt="Vaseem791" /> </p>
 
 - 🔭 I’m currently learning **Android Development**
@@ -14,7 +14,6 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://dev.to/dev.khushi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.khushi26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaseem-ali-1569411a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaseem791" height="30" width="40" /></a>
 <a href="https://instagram.com/vaseem.ali07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaseem.ali07" height="30" width="40" /></a>
 </p>
