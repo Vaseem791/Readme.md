@@ -35,13 +35,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-
-### DevOps & Cloud Tools :
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-
-
 ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif)
 
 
