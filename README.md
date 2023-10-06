@@ -25,8 +25,6 @@
 ### Language :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -49,34 +47,6 @@ No file chosen
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-	
-<img src="https://activity-graph.herokuapp.com/graph?username=Vaseem791&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-<!-- [![Vaseem's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vaseem791&theme=xcode)](https://git.io/Vaseem791)
- -->
-
-
-
-
-
-
-
-
-<!-- ## ⚡ More about my Coding Life :
-
-
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e676966](https://user-images.githubusercontent.com/85782825/137878929-78f23f18-1d13-4f53-9a5e-88431b0f65a3.gif)
- -->
 
 
 
