@@ -6,11 +6,11 @@
  <a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Vaseem791" height="300" width="400"/>
 </a>
 
-- 🔭 I’m currently learning **Android Development**
+- 🔭 I’m currently Working As **.Net Development**
 
 - 👯 I’m looking to collaborate on **some awesome projects**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **alivaseem288@gmail.com**
 
