@@ -6,7 +6,7 @@
  <a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Vaseem791" height="300" width="400"/>
 </a>
 
-- 🔭 I’m currently working As **.Net Development**
+- 🔭 I’m currently working as **.Net Developer**
 
 - 👯 I’m looking to collaborate on **some awesome projects**
 
