@@ -17,7 +17,7 @@
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/vaseem-ali-1569411a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaseem791" height="30" width="40" /></a>
-<a href="https://instagram.com/vaseem.ali07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaseem_ali07" height="30" width="40" /></a>
+<a href="https://instagram.com/vaseem_ali07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaseem_ali07" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Language
